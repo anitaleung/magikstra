@@ -6,7 +6,7 @@
 </section>
 
 <section class="nav">
-	<?php include 'nav.php'; ?>
+	<!-- navigation -->
 </section>
 
 <section class="about">
