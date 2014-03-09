@@ -1,5 +1,15 @@
-body {
+body, h1, h2, h3, h4, h5, h6 {
 	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	color: #EB6E44;
+	transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+	color: #C65638;
+	transition: color 0.2s ease-in-out;
 }
 
 input, input:focus {
@@ -10,7 +20,7 @@ input, input:focus {
 
 /*
 ===========================================================
-LANDING PAGE
+LANDING SECTION
 ===========================================================
 */
 
@@ -24,7 +34,7 @@ section.landing {
 }
 
 #site-logo {
-	margin: 7em 0 3em 0;
+	margin: 7em 2em 3em 0;
 }
 
 #site-description {
@@ -71,4 +81,54 @@ input.notify {
 input.notify:hover {
 	background: #65998F;
 	transition: background 0.2s ease-in-out;
+}
+
+/*
+===========================================================
+NAVIGATION
+===========================================================
+*/
+
+#site-nav {
+	padding: 2em;
+	background: #7C786A;
+	font-weight: 800;
+}
+
+#site-title {
+	display: inline-block;
+	font-size: 1.9em;
+	text-transform: uppercase;
+	color: #2B2924;
+	font-weight: 800;
+}
+
+#site-title a {
+	color: #2B2924;
+}
+
+#site-title a:hover {
+	color: #141310;
+}
+
+#site-nav ul {
+	margin: 0;
+	padding-top: 1em;
+	display: inline-block;
+}
+
+#site-nav li {
+	display: inline-block;
+	margin-left: 2em;
+	list-style-type: none;
+}
+
+#site-nav li a {
+	color: #fff;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+#site-nav li a:hover {
+	color: #AFACA7;
 }
