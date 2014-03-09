@@ -18,6 +18,11 @@ input, input:focus {
 	outline: none;
 }
 
+.section-title {
+	text-align: center;
+	font-weight: 800;
+}
+
 /*
 ===========================================================
 LANDING SECTION
@@ -39,7 +44,7 @@ section.landing {
 
 #site-description {
 	color: #fff;
-	margin-bottom: 2em;
+	margin-bottom: 3em;
 }
 
 input.email {
@@ -56,19 +61,19 @@ input.email:focus {
 }
 
 input.email::-webkit-input-placeholder {
-   color: #fff;
+   color: #D8D8D8;
 }
 
 input.email:-moz-placeholder { /* Firefox 18- */
-   color: #fff;  
+   color: #D8D8D8;  
 }
 
 input.email::-moz-placeholder {  /* Firefox 19+ */
-   color: #fff;  
+   color: #D8D8D8;  
 }
 
 input.email:-ms-input-placeholder {  
-   color: #fff;  
+   color: #D8D8D8;  
 }
 
 input.notify {
@@ -131,4 +136,69 @@ NAVIGATION
 
 #site-nav li a:hover {
 	color: #AFACA7;
+}
+
+/*
+===========================================================
+MEET THE TEAM
+===========================================================
+*/
+
+section.team {
+	background: #EB6E44;
+	color: #fff;	
+}
+
+#team-title {
+	color: #fff;
+	text-transform: uppercase;
+	margin: 2em 0;
+}
+
+.exec-img {
+	width: 100%;
+	height: 150px;
+	display: inline-block;
+	background: #333;
+}
+	
+#exec .name, #exec .role {
+	text-align: center;
+	display: block;
+	float: none;
+}
+
+.name, .role, #sub-teams h3 {
+	font-size: 0.9em;
+}
+
+.name {
+	font-weight: 700;
+}
+
+.role {
+	font-style: italic;
+	float: right;
+}
+
+#sub-teams ul {
+	display: inline-block;
+	margin: 0;
+	margin-bottom: 5em;
+}
+
+#sub-teams ul:first-child {
+	padding-left: 0;
+}
+
+#sub-teams ul:last-child {
+	padding-right: 0;
+}
+
+#sub-teams h3 {
+	font-weight: 700;
+}
+
+#sub-teams li {
+	list-style-type: none;
 }
