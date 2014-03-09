@@ -1,0 +1,74 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+input, input:focus {
+	box-shadow: none !important;
+	border: none;
+	outline: none;
+}
+
+/*
+===========================================================
+LANDING PAGE
+===========================================================
+*/
+
+section.landing {
+	background: url(../img/bg.jpg) no-repeat center center;
+		-webkit-background-size: 	cover;
+		-moz-background-size: 		cover;
+		-o-background-size: 		cover;
+	background-size: 				cover;
+	height: 100%;
+}
+
+#site-logo {
+	margin: 7em 0 3em 0;
+}
+
+#site-description {
+	color: #fff;
+	margin-bottom: 2em;
+}
+
+input.email {
+	display: inline-block;
+	padding: 1.2em;
+	background: none;
+	font-size: 1em;
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+input.email:focus {
+	background: none;
+}
+
+input.email::-webkit-input-placeholder {
+   color: #fff;
+}
+
+input.email:-moz-placeholder { /* Firefox 18- */
+   color: #fff;  
+}
+
+input.email::-moz-placeholder {  /* Firefox 19+ */
+   color: #fff;  
+}
+
+input.email:-ms-input-placeholder {  
+   color: #fff;  
+}
+
+input.notify {
+	padding: 0.7em 2em 0.7em 2em;
+	background: #8DCDC1;
+	border: none;
+	color: #fff;
+}
+
+input.notify:hover {
+	background: #65998F;
+	transition: background 0.2s ease-in-out;
+}
