@@ -146,7 +146,8 @@ MEET THE TEAM
 
 section.team {
 	background: #EB6E44;
-	color: #fff;	
+	color: #fff;
+	height: 100%;	
 }
 
 #team-title {
@@ -184,7 +185,6 @@ section.team {
 #sub-teams ul {
 	display: inline-block;
 	margin: 0;
-	margin-bottom: 5em;
 }
 
 #sub-teams ul:first-child {
