@@ -35,7 +35,7 @@ section.landing {
 		-moz-background-size: 		cover;
 		-o-background-size: 		cover;
 	background-size: 				cover;
-	height: 100%;
+	min-height: 100%;
 }
 
 #site-logo {
@@ -78,6 +78,7 @@ input.email:-ms-input-placeholder {
 
 input.notify {
 	padding: 0.7em 2em 0.7em 2em;
+	margin-bottom: 6em;
 	background: #8DCDC1;
 	border: none;
 	color: #fff;
@@ -147,7 +148,7 @@ MEET THE TEAM
 section.team {
 	background: #EB6E44;
 	color: #fff;
-	height: 100%;	
+	min-height: 100%;	
 }
 
 #team-title {
@@ -184,7 +185,7 @@ section.team {
 
 #sub-teams ul {
 	display: inline-block;
-	margin: 0;
+	margin: 0 0 5em 0;
 }
 
 #sub-teams ul:first-child {
@@ -196,9 +197,79 @@ section.team {
 }
 
 #sub-teams h3 {
+	color: #722A19;
 	font-weight: 700;
 }
 
 #sub-teams li {
 	list-style-type: none;
+}
+
+/*
+===========================================================
+SHARING
+===========================================================
+*/
+
+section.share {
+	padding: 6em 0 4em 0;
+	background: #8DCDC1;
+	min-height: 35%;
+}
+
+#share li {
+	list-style-type: none;
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	background: url('../img/sprite-share.png');
+	margin-right: 2em;
+}
+
+#share li:last-child {
+	margin-right: 0;
+}
+
+#share a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+#twitter-icon:hover {
+	background-position: 60px 0 !important;
+}
+
+#facebook-icon {
+	background-position: 0 -60px !important;
+}
+
+#facebook-icon:hover {
+	background-position: 60px -60px !important;
+}
+
+#email-icon {
+	background-position: 0 -120px !important;
+}
+
+#email-icon:hover {
+	background-position: 60px -120px !important;
+}
+
+/*
+===========================================================
+NOTIFY
+===========================================================
+*/
+
+section.notify {
+	background: #333;
+	padding: 11em 0 4em 0;
+	min-height: 65%;
+}
+
+section.notify span {
+	display: block;
+	margin-bottom: 4em;
+	color: #fff;
 }
