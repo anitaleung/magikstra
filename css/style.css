@@ -147,21 +147,38 @@ ABOUT SECTION
 ===========================================================
 */
 
-h1.about {
+#about {
 	color: #eb6e44;
 	text-transform: uppercase;
+	margin: 2em 0;
 }
 
 h2.first {
 	color: #accfe5;
+	font-size: 1em;
+	font-weight: 600;
 }
 
 h2.second {
 	color: #ffbd66;
+	font-size: 1em;
+	font-weight: 600;
 }
 
 h2.third {
 	color: #7c786a;
+	font-size: 1em;
+	font-weight: 600;
+}
+
+#about-words {
+	margin: 4em 0;
+}
+
+#about-description {
+	color: #000;
+	font-size: 0.8em;
+	word-spacing: 0.3em;
 }
 
 /*
