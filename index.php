@@ -4,7 +4,9 @@
 	<?php include 'landing.php'; ?>
 </section>
 
-<section class="nav">
+<div id="end-of-landing"></div>
+
+<section id="nav" class="nav">
 	<nav id="site-nav">
 		<div class="row">
 			<h1 id="site-title">
