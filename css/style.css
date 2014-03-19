@@ -1,3 +1,9 @@
+/*
+* Authors: 
+* Anita Leung http://anitaleung.co/
+* Heather Huynh
+*/
+
 body, h1, h2, h3, h4, h5, h6 {
 	font-family: 'Open Sans', sans-serif;
 }
@@ -134,25 +140,25 @@ NAVIGATION
 	color: #141310;
 }
 
-#site-nav ul {
+.nav ul {
 	margin: 0;
-	padding-top: 1em;
+	padding: 1em 0 0 0;
 	display: inline-block;
 }
 
-#site-nav li {
+.nav li {
 	display: inline-block;
 	margin-left: 2em;
 	list-style-type: none;
 }
 
-#site-nav li a {
+.nav li a {
 	color: #fff;
 	font-weight: 600;
 	text-transform: uppercase;
 }
 
-#site-nav li a:hover {
+.nav li a:hover, .focused {
 	color: #AFACA7;
 }
 
@@ -205,11 +211,16 @@ MEET THE TEAM
 section.team {
 	background: #EB6E44;
 	color: #fff;
-	min-height: 100%;	
+	min-height: 100%;
+	padding-bottom: 5em;	
 }
 
 #team-title {
 	color: #fff;
+}
+
+#exec {
+	padding: 0 1em;
 }
 
 .exec-img {
@@ -240,15 +251,9 @@ section.team {
 
 #sub-teams ul {
 	display: inline-block;
-	margin: 0 0 5em 0;
-}
-
-#sub-teams ul:first-child {
-	padding-left: 0;
-}
-
-#sub-teams ul:last-child {
-	padding-right: 0;
+	margin: 0;
+	padding: 0;
+	width: 100%;
 }
 
 #sub-teams h3 {
@@ -319,7 +324,7 @@ NOTIFY
 
 section.notify {
 	background: #333;
-	padding: 17em 0 0 0;
+	padding: 16em 0 0 0;
 	min-height: 88%;
 }
 
@@ -327,4 +332,18 @@ section.notify span {
 	display: block;
 	margin-bottom: 4em;
 	color: #fff;
+}
+
+/*
+===========================================================
+MEDIA QUERIES
+===========================================================
+*/
+
+@media (max-width: 600px) {
+
+	#about img {
+ 		margin-bottom: 1em;
+	}
+
 }

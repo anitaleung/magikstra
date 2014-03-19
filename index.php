@@ -6,7 +6,8 @@
 
 <div id="end-of-landing"></div>
 
-<section id="nav" class="nav">
+<!-- main navigation -->
+<section id="nav" class="nav hide-for-medium-down">
 	<nav id="site-nav">
 		<div class="row">
 			<h1 id="site-title">

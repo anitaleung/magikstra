@@ -1,6 +1,14 @@
 // Navigation scrolling effect
 (function(){
 
+	// Changing navigation link state on passing sections
+
+var mainmenu = $('#site-nav a'); 
+	
+})();
+
+(function(){
+
 	// Changing navigation position
 
 	var navHeight = $('#nav').css('height'); // With units
@@ -48,7 +56,7 @@
 		
 })();
 
-// Make heights of about img and content equal
+// Make heights of children equal
 (function(){
 	$('.equalize').equalize();
 })();
