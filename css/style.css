@@ -19,8 +19,19 @@ input, input:focus {
 }
 
 .section-title {
+	text-transform: uppercase;
+	margin: 2em 0;
 	text-align: center;
 	font-weight: 800;
+}
+
+.to {
+	display: table;
+}
+
+.ti {
+	display: table-cell;
+	vertical-align: middle;
 }
 
 /*
@@ -98,9 +109,13 @@ NAVIGATION
 */
 
 #site-nav {
-	padding: 2em;
+	position: relative;
+	padding: 1em;
 	background: #7C786A;
 	font-weight: 800;
+	top: 0;
+	width: 100%;
+	z-index: 100;
 }
 
 #site-title {
@@ -147,38 +162,38 @@ ABOUT SECTION
 ===========================================================
 */
 
-#about {
+#about-title {
 	color: #eb6e44;
-	text-transform: uppercase;
-	margin: 2em 0;
 }
 
-h2.first {
+section.about .row {
+	margin: 4em auto;
+}
+
+section.about .row:first-of-type {
+	margin-top: 0;
+}
+
+section.about h2 {
+	font-size: 1em;
+	font-weight: 600;
+}
+
+h2#first {
 	color: #accfe5;
-	font-size: 1em;
-	font-weight: 600;
 }
 
-h2.second {
+h2#second {
 	color: #ffbd66;
-	font-size: 1em;
-	font-weight: 600;
 }
 
-h2.third {
+h2#third {
 	color: #7c786a;
-	font-size: 1em;
-	font-weight: 600;
 }
 
-#about-words {
-	margin: 4em 0;
-}
-
-#about-description {
+.about-description {
 	color: #000;
 	font-size: 0.8em;
-	word-spacing: 0.3em;
 }
 
 /*
@@ -195,8 +210,6 @@ section.team {
 
 #team-title {
 	color: #fff;
-	text-transform: uppercase;
-	margin: 2em 0;
 }
 
 .exec-img {
@@ -254,9 +267,9 @@ SHARING
 */
 
 section.share {
-	padding: 6em 0 4em 0;
+	padding: 7em 0 4em 0;
 	background: #8DCDC1;
-	min-height: 35%;
+	min-height: 40%;
 }
 
 #share li {
@@ -306,8 +319,8 @@ NOTIFY
 
 section.notify {
 	background: #333;
-	padding: 11em 0 4em 0;
-	min-height: 65%;
+	padding: 17em 0 0 0;
+	min-height: 88%;
 }
 
 section.notify span {
