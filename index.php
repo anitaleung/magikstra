@@ -14,10 +14,10 @@
 				<a href="#landing">Magikstra</a>
 			</h1>
 			<ul class="right">
-				<li><a href="#about">About Us</a></li>
-				<li><a href="#team">Meet the Team</a></li>
-				<li><a href="#share">Contact Us</a></li>
-				<li><a href="#notify">Sign Up</a></li>
+				<li><a href="#about" class="1">About Us</a></li>
+				<li><a href="#team" class="2">Meet the Team</a></li>
+				<li><a href="#share" class="3">Contact Us</a></li>
+				<li><a href="#notify" class="4">Sign Up</a></li>
 			</ul>
 		</div>
 	</nav>

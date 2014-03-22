@@ -1,10 +1,39 @@
 // Navigation scrolling effect
 (function(){
 
-	// Changing navigation link state on passing sections
-
-var mainmenu = $('#site-nav a'); 
+	// Changing navigation link state on passing sections 
 	
+	$(document).scroll(function(){
+		if ($(this).scrollTop() + $('#about').height() > $('#about').offset().top) {
+        $('.1').css({'color':'#AFACA7'});
+		$('.2').css({'color':'#ffffff'});
+		$('.3').css({'color':'#ffffff'});
+		$('.4').css({'color':'#ffffff'});
+		}
+		
+		if ($(this).scrollTop() + $('#team').height() > $('#team').offset().top) {
+        $('.1').css({'color':'#ffffff'});
+		$('.2').css({'color':'#AFACA7'});
+		$('.3').css({'color':'#ffffff'});
+		$('.4').css({'color':'#ffffff'});
+		}
+		
+		if ($(this).scrollTop() + $('#share').height() > $('#share').offset().top) {
+        $('.1').css({'color':'#ffffff'});
+		$('.2').css({'color':'#ffffff'});
+		$('.3').css({'color':'#AFACA7'});
+		$('.4').css({'color':'#ffffff'});
+		}
+		
+		if ($(this).scrollTop() + $('#notify').height() > $('#notify').offset().top) {
+        $('.1').css({'color':'#ffffff'});
+		$('.2').css({'color':'#ffffff'});
+		$('.3').css({'color':'#ffffff'});
+		$('.4').css({'color':'#AFACA7'});
+		}
+
+	});
+
 })();
 
 (function(){
