@@ -2,19 +2,27 @@
 
 	<h2 id="team-title" class="section-title">Meet the Team</h2>
 
-	<ul id="exec" class="large-block-grid-5 medium-block-grid-3 small-block-grid-2">
+	<ul id="exec" class="large-block-grid-4 medium-block-grid-2 small-block-grid-2">
 
+		<li></li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Ananya Cleetus</span>
-			<span class="role">Co-founder and Chief Executive Officer</span>
+			<span class="role">Co-founder and <br> Chief Executive Officer</span>
 		</li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Courtney Thurston</span>
-			<span class="role">Co-founder and Chief Operations Officer</span>
+			<span class="role">Co-founder and <br> Chief Operations Officer</span>
 
 		</li>
+		
+	
+
+		</ul> 
+		
+		<ul id="exec" class="large-block-grid-4 medium-block-grid-3 small-block-grid-2">
+
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Cassidy Williams</span>
