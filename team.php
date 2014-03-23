@@ -48,7 +48,7 @@
 			<ul>
 				<h3>Front-end Development</h3>
 				<li><span class="name">Anita Leung</span><span class="role">Head of Front-End Development Team</span></li>
-				<li><span class="name">Heather Hyunh</span><span class="role">Head of User Interface/User Experience</span></li>
+				<li><span class="name">Heather Hyunh</span><span class="role">Front End Development</span></li>
 				<li><span class="name">Colin McIllece</span><span class="role">Front End Development</span></li>
 				<!--<li><span class="name">First Last</span><span class="role">Role</span></li>-->
 			</ul>
