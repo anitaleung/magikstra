@@ -47,30 +47,31 @@
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Front-end Development</h3>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
+				<li><span class="name">Anita Leung</span><span class="role">Head of Front-End Development Team</span></li>
+				<li><span class="name">Heather Hyunh</span><span class="role">Head of User Interface/User Experience</span></li>
+				<li><span class="name">Colin McIllece</span><span class="role">Front End Development</span></li>
+				<!--<li><span class="name">First Last</span><span class="role">Role</span></li>-->
 			</ul>
 		</div>
 
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Back-end Development</h3>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
+				<li><span class="name">Henry Boldizsar</span><span class="role">Head of Back-End Development Team</span></li>
+				<li><span class="name">Ama Koranteng</span><span class="role">Back-End Development</span></li>
 			</ul>
 		</div>
 
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Marketing &amp; Branding</h3>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
+				<li><span class="name">Trushita Narla</span><span class="role">Head of Design and Graphics</span></li>
+				<li><span class="name">Anna Mitchell</span><span class="role">Head of Branding</span></li>
+				<li><span class="name">Sandra Soueid</span><span class="role">Outreach</span></li>
+				<li><span class="name">Roya Edalatpour</span><span class="role">Outreach/Branding</span></li>
+				<li><span class="name">Leslie Morgan</span><span class="role">Marketing</span></li>
+				
+				<!--<li><span class="name">First Last</span><span class="role">Role</span></li>-->
 			</ul>
 		</div>
 
