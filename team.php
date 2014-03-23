@@ -6,31 +6,37 @@
 
 		<li>
 			<div class="exec-img"></div>
-			<span class="name">First Last</span>
-			<span class="role">Role</span>
+			<span class="name">Ananya Cleetus</span>
+			<span class="role">CEO and Co-founder</span>
 		</li>
 		<li>
 			<div class="exec-img"></div>
-			<span class="name">First Last</span>
-			<span class="role">Role</span>
+			<span class="name">Courtney Thurston</span>
+			<span class="role">COO and Co-founder</span>
 
 		</li>
 		<li>
 			<div class="exec-img"></div>
-			<span class="name">First Last</span>
-			<span class="role">Role</span>
+			<span class="name">Cassidy Williams</span>
+			<span class="role">CTO</span>
 
 		</li>
 		<li>
 			<div class="exec-img"></div>
-			<span class="name">First Last</span>
-			<span class="role">Role</span>
+			<span class="name">Shreya Shankar</span>
+			<span class="role">CBO</span>
 
 		</li>
 		<li>
 			<div class="exec-img"></div>
-			<span class="name">First Last</span>
-			<span class="role">Role</span>
+			<span class="name">Connor Arnaiz</span>
+			<span class="role">CMO</span>
+
+		</li> 
+		<li>
+			<div class="exec-img"></div>
+			<span class="name">Aishwarya Borkar</span>
+			<span class="role">CIO</span>
 
 		</li>
 
