@@ -11,7 +11,7 @@
 			<span class="role">Co-founder and <br> Chief Executive Officer</span>
 		</li>
 		<li>
-			<div class="exec-img"></div>
+			<div class="exec-img"><img src="img/courtney.png"></div>
 			<span class="name">Courtney Thurston</span>
 			<span class="role">Co-founder and <br> Chief Operations Officer</span>
 
@@ -36,7 +36,7 @@
 
 		</li>
 		<li>
-			<div class="exec-img"></div>
+			<div class="exec-img"><img src="img/connor.png"></div>
 			<span class="name">Connor Arnaiz</span>
 			<span class="role">Chief Marketing Officer</span>
 
