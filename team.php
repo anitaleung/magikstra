@@ -34,7 +34,7 @@
 
 		</li> 
 		<li>
-			<div class="exec-img"></div>
+			<div class="exec-img"><img src="img/aishwaryaborkar.png"></div>
 			<span class="name">Aishwarya Borkar</span>
 			<span class="role">Chief Information Officer</span>
 
