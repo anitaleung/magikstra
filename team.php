@@ -7,36 +7,36 @@
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Ananya Cleetus</span>
-			<span class="role">CEO and Co-founder</span>
+			<span class="role">Co-founder and Chief Executive Officer</span>
 		</li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Courtney Thurston</span>
-			<span class="role">COO and Co-founder</span>
+			<span class="role">Co-founder and Chief Operations Officer</span>
 
 		</li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Cassidy Williams</span>
-			<span class="role">CTO</span>
+			<span class="role">Chief Technology Officer</span>
 
 		</li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Shreya Shankar</span>
-			<span class="role">CBO</span>
+			<span class="role">Chief Business Officer</span>
 
 		</li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Connor Arnaiz</span>
-			<span class="role">CMO</span>
+			<span class="role">Chief Marketing Officer</span>
 
 		</li> 
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Aishwarya Borkar</span>
-			<span class="role">CIO</span>
+			<span class="role">Chief Information Officer</span>
 
 		</li>
 
@@ -77,9 +77,9 @@
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Advisory Board</h3>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
-				<li><span class="name">First Last</span><span class="role">Role</span></li>
+				<li><span class="name">Jeanine Swatton</span><span class="role">Role</span></li>
+				<li><span class="name">Larry Berger</span><span class="role">Founder/Executive Director, SLB Radio Productions, Inc.</span></li>
+				<li><span class="name">Baris Yuksel</span><span class="role">Senior Software Engineer at Google</span></li>
 			</ul>
 		</div>
 
