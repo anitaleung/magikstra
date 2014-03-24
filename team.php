@@ -86,7 +86,7 @@
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Advisory Board</h3>
-				<li><span class="name">Jeanine Swatton</span><span class="role">Role</span></li>
+				<li><span class="name">Jeanine Swatton</span><span class="role">Technology Evangelist/Engineer at Ninefold.com</span></li>
 				<li><span class="name">Larry Berger</span><span class="role">Founder/Executive Director, SLB Radio Productions, Inc.</span></li>
 				<li><span class="name">Baris Yuksel</span><span class="role">Senior Software Engineer at Google</span></li>
 			</ul>
