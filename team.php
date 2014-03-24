@@ -73,7 +73,7 @@
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Marketing &amp; Branding</h3>
-				<li><span class="name">Trushita Narla</span><span class="role">Head of Design and Graphics</span></li>
+				<li><span class="name">Trushitha Narla</span><span class="role">Head of Design and Graphics</span></li>
 				<li><span class="name">Anna Mitchell</span><span class="role">Head of Branding</span></li>
 				<li><span class="name">Sandra Soueid</span><span class="role">Outreach</span></li>
 				<li><span class="name">Roya Edalatpour</span><span class="role">Outreach/Branding</span></li>
