@@ -6,7 +6,7 @@
 
 		<li></li>
 		<li>
-			<div class="exec-img"></div>
+			<div class="exec-img"><img src="img/anan.png"></div>
 			<span class="name">Ananya Cleetus</span>
 			<span class="role">Co-founder and <br> Chief Executive Officer</span>
 		</li>
