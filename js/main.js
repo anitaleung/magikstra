@@ -4,14 +4,22 @@
 	// Changing navigation link state on passing sections 
 	
 	$(document).scroll(function(){
-		if ($(this).scrollTop() + $('#about').height() > $('#about').offset().top) {
+	
+		if ($(this).scrollTop() >= $('#landing').offset().top) {
+        $('.1').css({'color':'#ffffff'});
+		$('.2').css({'color':'#ffffff'});
+		$('.3').css({'color':'#ffffff'});
+		$('.4').css({'color':'#ffffff'});
+		}
+		
+		if ($(this).scrollTop() >= $('#about').offset().top) {
         $('.1').css({'color':'#AFACA7'});
 		$('.2').css({'color':'#ffffff'});
 		$('.3').css({'color':'#ffffff'});
 		$('.4').css({'color':'#ffffff'});
 		}
 		
-		if ($(this).scrollTop() + $('#team').height() > $('#team').offset().top) {
+		if ($(this).scrollTop() + (1/8)*$('#team').height() > $('#team').offset().top) {
         $('.1').css({'color':'#ffffff'});
 		$('.2').css({'color':'#AFACA7'});
 		$('.3').css({'color':'#ffffff'});
