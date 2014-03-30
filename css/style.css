@@ -60,15 +60,26 @@ section.landing .row:first-of-type {
 	height: 100%;
 }
 
-#stOCClose {
-	width: 27px;
-}
-
+/* sharing icons */
 #sharing-panel {
 	position: absolute;
 	top: 1em;
 	right: 1em;
 }
+
+#stOCClose {
+	width: 27px;
+}
+
+.stButton .stMainServices {
+	height: 25px !important;
+}
+
+.stButton .stButton_gradient {
+	height: 19px !important;
+}
+
+/* end of sharing icons*/
 
 #site-logo {
 	margin: 7em 2em 3em 0;

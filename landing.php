@@ -1,11 +1,11 @@
 <div class="row text-center">
 	
 	<div id="sharing-panel">
-		<span class='st_facebook_large' displayText='Facebook'></span>
-		<span class='st_twitter_large' displayText='Tweet'></span>
-		<span class='st_googleplus_large' displayText='Google +'></span>
-		<span class='st_linkedin_large' displayText='LinkedIn'></span>
-		<span class='st_email_large' displayText='Email'></span>
+		<span class='st_fblike_hcount' displayText='Facebook Like'></span>
+		<span class='st_fbrec_hcount' displayText='Facebook Recommend'></span>
+		<span class='st_twitterfollow_hcount' displayText='Twitter Follow' st_username='magikstra'></span>
+		<span class='st_linkedin_hcount' displayText='LinkedIn'></span>
+		<span class='st_plusone_hcount' displayText='Google +1'></span> 
 	</div>
 
 	<img src="img/logo.png" alt="Magikstra Logo" id="site-logo">
