@@ -16,21 +16,35 @@
 			<span class="role">Co-founder and <br> Chief Operations Officer</span>
 
 		</li>
-		
-	
 
 		</ul> 
+
+                <ul id="exec" class="large-block-grid-4 medium-block-grid-3 small-block-grid-2">
+
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+
+                </ul>
 		
 		<ul id="exec" class="large-block-grid-4 medium-block-grid-3 small-block-grid-2">
 
+                
 		<li>
-			<div class="exec-img"></div>
+			<div class="exec-img"><img src="img/cass.png"></div>
 			<span class="name">Cassidy Williams</span>
 			<span class="role">Chief Technology Officer</span>
 
 		</li>
 		<li>
-			<div class="exec-img"></div>
+			<div class="exec-img"><img src="img/shreya.png"></div>
 			<span class="name">Shreya Shankar</span>
 			<span class="role">Chief Business Officer</span>
 
@@ -50,14 +64,29 @@
 
 	</ul>
 
+           <ul id="exec" class="large-block-grid-4 medium-block-grid-3 small-block-grid-2">
+
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+
+                </ul>
+
 	<div id="sub-teams" class="equalize">
 
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Front-end Development</h3>
-				<li><span class="name">Anita Leung</span><span class="role">Head of Front-End Development Team</span></li>
-				<li><span class="name">Heather Hyunh</span><span class="role">Front End Development</span></li>
-				<li><span class="name">Colin McIllece</span><span class="role">Front End Development</span></li>
+				<li><span class="name">Anita Leung</span><br><span class="role">Head of Front-End Development</span></li>
+				<li><span class="name">Heather Hyunh</span><br><span class="role">Front End Development</span></li>
+				<li><span class="name">Colin McIllece</span><br><span class="role">Front End Development</span></li>
 				<!--<li><span class="name">First Last</span><span class="role">Role</span></li>-->
 			</ul>
 		</div>
@@ -65,19 +94,19 @@
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Back-end Development</h3>
-				<li><span class="name">Henry Boldizsar</span><span class="role">Head of Back-End Development Team</span></li>
-				<li><span class="name">Ama Koranteng</span><span class="role">Back-End Development</span></li>
+				<li><span class="name">Henry Boldizsar</span><br><span class="role">Head of Back-End Development</span></li>
+				<li><span class="name">Ama Koranteng</span><br><span class="role">Back-End Development</span></li>
 			</ul>
 		</div>
 
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Marketing &amp; Branding</h3>
-				<li><span class="name">Trushitha Narla</span><span class="role">Head of Design and Graphics</span></li>
-				<li><span class="name">Anna Mitchell</span><span class="role">Head of Branding</span></li>
-				<li><span class="name">Sandra Soueid</span><span class="role">Outreach</span></li>
-				<li><span class="name">Roya Edalatpour</span><span class="role">Outreach/Branding</span></li>
-				<li><span class="name">Leslie Morgan</span><span class="role">Marketing</span></li>
+				<li><span class="name">Trushitha Narla</span><br><span class="role">Head of Design and Graphics</span></li>
+				<li><span class="name">Anna Mitchell</span><br><span class="role">Head of Branding</span></li>
+				<li><span class="name">Sandra Soueid</span><br><span class="role">Outreach</span></li>
+				<li><span class="name">Roya Edalatpour</span><br><span class="role">Outreach/Branding</span></li>
+				<li><span class="name">Leslie Morgan</span><br><span class="role">Marketing</span></li>
 				
 				<!--<li><span class="name">First Last</span><span class="role">Role</span></li>-->
 			</ul>

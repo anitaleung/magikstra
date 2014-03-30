@@ -1,6 +1,17 @@
 <div class="row">
 
-	<h1 id="about-title" class="text-center section-title">About Us</h1>
+	<h1 id="about-title" class="text-center section-title">How It Works</h1>
+	
+        <div class="row equalize">
+		<div class="medium-12 columns text-center">
+			
+				<p class="about-description">
+					We’re a social network. Our users create profiles to help them connect with mentors and mentees. High school students, upload your resume, post a biography, and use our integration with Facebook, Twitter, Github, and LinkedIn. Professors and professionals, explain your research interests and goals on your profile. 
+				</p>
+			
+		</div>
+	</div>
+       
 
 	<div class="row equalize">
 		<div class="medium-4 columns text-center">
@@ -8,9 +19,9 @@
 		</div>
 		<div class="medium-8 columns to">
 			<div class="ti">
-				<h2 id="first">Design</h2>
+				<h2 id="first">For Students</h2>
 				<p class="about-description">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					Bored by your school-work and want a challenge? Need career advice? Learn from successful mentors in your area of interest. Find research projects to collaborate on. Search by location, field, or university. 
 				</p>
 			</div>
 		</div>
@@ -22,9 +33,9 @@
 		</div>
 		<div class="medium-8 columns to">
 			<div class="ti">
-				<h2 id="second">Usability</h2>
+				<h2 id="second">For Professors</h2>
 				<p class="about-description">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					Want to share your passion with younger students or need help in the lab? Magikstra will connect you to students who care about the subjects you know well. Find willing assistants for your lab research, or just help a younger student along with career advice.
 				</p>
 			</div>
 		</div>
@@ -39,15 +50,14 @@
 		</div>
 		<div class="medium-8 columns to">
 			<div class="ti">
-				<h2 id="third">Experience</h2>
+				<h2 id="third">For Professionals</h2>
 				<p class="about-description">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					
+Want to help younger students succeed in your field? Mentor them through Magikstra! 
 				</p>
 			</div>
 		</div>
 	</div>
 
 </div>
-
-
 
