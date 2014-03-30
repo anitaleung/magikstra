@@ -1,3 +1,16 @@
+// Landing page arrow
+(function(){
+
+	var winHeight = $(window).height();
+	
+	$('.arrow').on('click', function(){
+		$('html, body').animate({ 
+			scrollTop: winHeight
+		}, 900, 'swing');
+	});
+
+})();
+
 // Navigation scrolling effect
 (function(){
 

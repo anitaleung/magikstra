@@ -57,6 +57,7 @@ section.landing {
 
 section.landing .row:first-of-type {
 	position: relative;
+	height: 100%;
 }
 
 #stOCClose {
@@ -120,6 +121,53 @@ section.landing .row:first-of-type {
 #mc_embed_signup input.notify:hover {
 	background: #65998F;
 	transition: background 0.2s ease-in-out;
+}
+
+.arrow {
+	width: 30px;
+	height: 30px;
+	border-right: 2px solid #fff;
+	border-bottom: 2px solid #fff;
+	position: absolute;
+	margin-bottom: -2em;
+	left: 50%;
+	cursor: pointer;
+	margin-left: -15px;
+	transform:             rotate(45deg);
+		-ms-transform:     rotate(45deg); /* IE 9 */
+		-webkit-transform: rotate(45deg); /* Opera, Chrome, and Safari  */
+	animation:             up-and-down 2.5s infinite; /* IE 10+ */
+		-webkit-animation: up-and-down 2.5s infinite; /* Safari 4+ */
+		-moz-animation:    up-and-down 2.5s infinite; /* Fx 5+ */
+		-o-animation:      up-and-down 2.5s infinite; /* Opera 12+ */
+	opacity: 0.7;
+	transition: opacity 0.3s ease-in-out;
+}
+
+.arrow:hover {
+	opacity: 1;
+	transition: opacity 0.3s ease-in-out;
+}
+
+@-webkit-keyframes up-and-down {
+  0%   { bottom: 1.5em; }
+  50% { bottom: 1em; }
+  100%   { bottom: 1.5em; }
+}
+@-moz-keyframes up-and-down {
+  0%   { bottom: 1.5em; }
+  50% { bottom: 1em; }
+  100%   { bottom: 1.5em; }
+}
+@-o-keyframes up-and-down {
+  0%   { bottom: 1.5em; }
+  50% { bottom: 1em; }
+  100%   { bottom: 1.5em; }
+}
+@keyframes up-and-down {
+  0%   { bottom: 1.5em; }
+  50% { bottom: 1em; }
+  100%   { bottom: 1.5em; }
 }
 
 /*

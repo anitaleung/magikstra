@@ -12,7 +12,6 @@
 
 	<p id="site-description">No magic tricks. Just connections.</p>
 
-
     <!-- Begin MailChimp Signup Form -->
 	<div id="mc_embed_signup">
 		<form action="http://magikstra.us8.list-manage.com/subscribe/post?u=8b33eebb9a154e5213b01f658&amp;id=05a61b2e15" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate text-center" target="_blank" novalidate>
@@ -23,5 +22,7 @@
 		</form>
 	</div>
     <!--End mc_embed_signup-->
+
+	<div class="arrow"></div>
 
 </div>
