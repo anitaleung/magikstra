@@ -5,7 +5,7 @@
 	
 	$('.arrow').on('click', function(){
 		$('html, body').animate({ 
-			scrollTop: winHeight
+			scrollTop: winHeight + 1
 		}, 900, 'swing');
 	});
 
