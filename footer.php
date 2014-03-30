@@ -1,3 +1,8 @@
+		<!-- sharing icons on landing -->
+		<script type="text/javascript">var switchTo5x=true;</script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({publisher: "21a773f4-76a0-4df6-97f7-c9f4fcb3cd3a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/waypoints.min.js"></script>

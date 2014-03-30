@@ -22,5 +22,6 @@
         <link rel="stylesheet" href="css/foundation.min.css">
         <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="css/style.css">
+
     </head>
     <body>

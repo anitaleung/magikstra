@@ -2,13 +2,11 @@
 
 	<h1 id="about-title" class="text-center section-title">How It Works</h1>
 	
-        <div class="row equalize">
+    <div class="row">
 		<div class="medium-12 columns text-center">
-			
-				<p class="about-description">
-					We’re a social network. Our users create profiles to help them connect with mentors and mentees. High school students, upload your resume, post a biography, and use our integration with Facebook, Twitter, Github, and LinkedIn. Professors and professionals, explain your research interests and goals on your profile. 
-				</p>
-			
+			<p class="about-description">
+				We’re a social network. Our users create profiles to help them connect with mentors and mentees. High school students, upload your resume, post a biography, and use our integration with Facebook, Twitter, Github, and LinkedIn. Professors and professionals, explain your research interests and goals on your profile. 
+			</p>
 		</div>
 	</div>
        
@@ -52,8 +50,7 @@
 			<div class="ti">
 				<h2 id="third">For Professionals</h2>
 				<p class="about-description">
-					
-Want to help younger students succeed in your field? Mentor them through Magikstra! 
+					Want to help younger students succeed in your field? Mentor them through Magikstra! 
 				</p>
 			</div>
 		</div>

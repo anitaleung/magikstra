@@ -55,6 +55,20 @@ section.landing {
 	min-height: 100%;
 }
 
+section.landing .row:first-of-type {
+	position: relative;
+}
+
+#stOCClose {
+	width: 27px;
+}
+
+#sharing-panel {
+	position: absolute;
+	top: 1em;
+	right: 1em;
+}
+
 #site-logo {
 	margin: 7em 2em 3em 0;
 }
@@ -168,6 +182,10 @@ ABOUT SECTION
 ===========================================================
 */
 
+section.about {
+	font-size: 1.2em;
+}
+
 #about-title {
 	color: #eb6e44;
 }
@@ -178,6 +196,10 @@ section.about .row {
 
 section.about .row:first-of-type {
 	margin-top: 0;
+}
+
+section.about .row:last-of-type {
+	margin-bottom: 2.5em;
 }
 
 section.about h2 {
@@ -227,7 +249,6 @@ section.team {
 	width: 220px;
 	height: 150px;
 	display: inline-block;
-	background: #333;
 }
 	
 #exec .name, #exec .role {
@@ -262,6 +283,7 @@ section.team {
 }
 
 #sub-teams li {
+	clear: both;
 	list-style-type: none;
 }
 
