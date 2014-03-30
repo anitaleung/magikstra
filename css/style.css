@@ -78,7 +78,7 @@ section.landing .row:first-of-type {
 	margin-bottom: 3em;
 }
 
-input.email {
+#mc_embed_signup input.email {
 	width: 240px;
 	display: inline-block;
 	padding: 1.2em;
@@ -89,27 +89,27 @@ input.email {
 	color: #fff;
 }
 
-input.email:focus {
+#mc_embed_signup input.email:focus {
 	background: none;
 }
 
-input.email::-webkit-input-placeholder {
+#mc_embed_signup input.email::-webkit-input-placeholder {
    color: #D8D8D8;
 }
 
-input.email:-moz-placeholder { /* Firefox 18- */
+#mc_embed_signup input.email:-moz-placeholder { /* Firefox 18- */
    color: #D8D8D8;  
 }
 
-input.email::-moz-placeholder {  /* Firefox 19+ */
+#mc_embed_signup input.email::-moz-placeholder {  /* Firefox 19+ */
    color: #D8D8D8;  
 }
 
-input.email:-ms-input-placeholder {  
+#mc_embed_signup input.email:-ms-input-placeholder {  
    color: #D8D8D8;  
 }
 
-input.notify {
+#mc_embed_signup input.notify {
 	padding: 0.7em 2em 0.7em 2em;
 	margin-bottom: 6em;
 	background: #8DCDC1;
@@ -117,7 +117,7 @@ input.notify {
 	color: #fff;
 }
 
-input.notify:hover {
+#mc_embed_signup input.notify:hover {
 	background: #65998F;
 	transition: background 0.2s ease-in-out;
 }
