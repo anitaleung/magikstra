@@ -7,8 +7,16 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta property="og:image" content ="img/preview.png">
-        <title>Magikstra - A networking site for students to connect with mentors and university faculty members.</title>
+        
+        <!--Open Graph-->
+        <meta property="og:image" content ="http://www.magikstra.com/img/preview.png">
+	<meta property="og:image:secure_url" content="https://www.magikstra.com/img/preview.png">
+	<meta property="og:image:type" content="image/png">
+	<meta property="og:title" content="Magikstra - No magic tricks. Just connections."/>
+	<meta property="og:url" content="http://www.magikstra.com"/>
+	<meta property="og:description" content="A networking site for students to connect with mentors and university faculty members." />
+	
+        <title>Magikstra - No magic tricks. Just connections.</title>
         <meta name="description" content="A networking site for students to connect with mentors and university faculty members.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -25,6 +33,8 @@
         <link rel="stylesheet" href="css/foundation.min.css">
         <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="css/style.css">
+         <link rel="image_src" href="img/preview.png>
+
 
     </head>
     <body>
