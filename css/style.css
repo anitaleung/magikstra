@@ -333,7 +333,7 @@ section.team {
 
 .role {
 	font-style: italic;
-	float: right;
+	float: left;
 	position: relative;
 	top: 5em;
 }
