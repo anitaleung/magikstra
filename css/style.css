@@ -309,6 +309,11 @@ section.team {
 	height: 150px;
 	display: inline-block;
 }
+
+.exec-img img
+{
+	border-radius: 15px;
+}
 	
 #exec .name, #exec .role {
 	text-align: center;
@@ -322,11 +327,15 @@ section.team {
 
 .name {
 	font-weight: 700;
+	position: relative;
+	top: 5em;
 }
 
 .role {
 	font-style: italic;
-	float: right;
+	float: left;
+	position: relative;
+	top: 5em;
 }
 
 #sub-teams ul {
