@@ -14,7 +14,7 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-       <!-- <link rel="shortcut icon" href="/favicon.ico" type="image/icon"> <link rel="icon" href="/favicon.ico" type="image/icon"> -->
+	   <link rel="icon" type="image/ico" href="/favicon.ico"/>
 
         <link rel="shortcut icon" type="image/png" href="/favicon.png"/> <link rel="icon" href="/favicon.png" type="image/png">
         
