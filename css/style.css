@@ -60,26 +60,11 @@ section.landing .row:first-of-type {
 	height: 100%;
 }
 
-/* sharing icons */
 #sharing-panel {
 	position: absolute;
 	top: 1em;
-	left: 0;
+	left: 1em;
 }
-
-/*#stOCClose {
-	width: 27px;
-}
-
-.stButton .stMainServices {
-	height: 25px !important;
-}
-
-.stButton .stButton_gradient {
-	height: 19px !important;
-}*/
-
-/* end of sharing icons*/
 
 #site-logo {
 	margin: 7em 2em 3em 0;
@@ -309,11 +294,17 @@ section.team {
 	height: 150px;
 	display: inline-block;
 }
+
+.exec-img img {
+	border-radius: 15px;
+}
 	
 #exec .name, #exec .role {
 	text-align: center;
 	display: block;
 	float: none;
+	position: relative;
+	top: 5em;
 }
 
 .name, .role, #sub-teams h3 {
@@ -326,7 +317,7 @@ section.team {
 
 .role {
 	font-style: italic;
-	float: right;
+	float: left;
 }
 
 #sub-teams ul {
