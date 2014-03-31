@@ -1,11 +1,8 @@
 <div class="row text-center">
 	
 	<div id="sharing-panel">
-		<span class='st_fblike_hcount' displayText='Facebook Like'></span>
-		<span class='st_fbrec_hcount' displayText='Facebook Recommend'></span>
-		<span class='st_twitterfollow_hcount' displayText='Twitter Follow' st_username='magikstra'></span>
-		<span class='st_linkedin_hcount' displayText='LinkedIn'></span>
-		<span class='st_plusone_hcount' displayText='Google +1'></span> 
+		<a href="https://twitter.com/share" class="twitter-share-button" data-via="twitterapi" data-lang="en">Tweet</a>		
+		<div class="fb-like" data-href="http://magikstra.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
 	</div>
 
 	<img src="img/logo.png" alt="Magikstra Logo" id="site-logo">

@@ -11,7 +11,7 @@
 	</div>
        
 
-	<div class="row equalize">
+	<div class="row">
 		<div class="medium-4 columns text-center">
 			<img src="img/circle1.png">
 		</div>
@@ -25,7 +25,7 @@
 		</div>
 	</div>
 
-	<div class="row equalize">
+	<div class="row">
 		<div class="medium-4 columns text-center hide-for-medium-up">
 			<img src="img/circle2.png">
 		</div>
@@ -42,7 +42,7 @@
 		</div>
 	</div>
 
-	<div class="row equalize">
+	<div class="row">
 		<div class="medium-4 columns text-center">
 			<img src="img/circle3.png">
 		</div>

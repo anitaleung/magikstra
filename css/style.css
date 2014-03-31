@@ -64,10 +64,10 @@ section.landing .row:first-of-type {
 #sharing-panel {
 	position: absolute;
 	top: 1em;
-	right: 1em;
+	left: 0;
 }
 
-#stOCClose {
+/*#stOCClose {
 	width: 27px;
 }
 
@@ -77,7 +77,7 @@ section.landing .row:first-of-type {
 
 .stButton .stButton_gradient {
 	height: 19px !important;
-}
+}*/
 
 /* end of sharing icons*/
 
@@ -309,11 +309,6 @@ section.team {
 	height: 150px;
 	display: inline-block;
 }
-
-.exec-img img
-{
-	border-radius: 15px;
-}
 	
 #exec .name, #exec .role {
 	text-align: center;
@@ -327,15 +322,11 @@ section.team {
 
 .name {
 	font-weight: 700;
-	position: relative;
-	top: 5em;
 }
 
 .role {
 	font-style: italic;
-	float: left;
-	position: relative;
-	top: 5em;
+	float: right;
 }
 
 #sub-teams ul {
