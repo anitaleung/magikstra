@@ -78,7 +78,6 @@ section.landing .row:first-of-type {
 #mc_embed_signup input.email {
 	width: 240px;
 	display: inline-block;
-	padding: 1.2em;
 	margin-right: 3em;
 	background: none;
 	font-size: 1em;
@@ -124,8 +123,7 @@ section.landing .row:first-of-type {
 	height: 30px;
 	border-right: 2px solid #fff;
 	border-bottom: 2px solid #fff;
-	position: absolute;
-	margin-bottom: -2em;
+	position: relative;
 	left: 50%;
 	cursor: pointer;
 	margin-left: -15px;
