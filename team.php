@@ -87,7 +87,7 @@
 				<li><span class="name">Anita Leung</span><br><span class="role">Head of Front-End Development</span></li>
 				<li><span class="name">Heather Hyunh</span><br><span class="role">Front End Development</span></li>
 				<li><span class="name">Colin McIllece</span><br><span class="role">Front End Development</span></li>
-				<!--<li><span class="name">First Last</span><span class="role">Role</span></li>-->
+				<li><span class="name">Camille Emig</span><br><span class="role">Front End Development</span></li>
 			</ul>
 		</div>
 
