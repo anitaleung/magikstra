@@ -87,7 +87,7 @@
 				<li><span class="name">Anita Leung</span><br><span class="role">Head of Front-End Development</span></li>
 				<li><span class="name">Heather Hyunh</span><br><span class="role">Front End Development</span></li>
 				<li><span class="name">Colin McIllece</span><br><span class="role">Front End Development</span></li>
-				<li><span class="name">Camille Emig</span><br><span class="role">Front End Development</span></li>
+				
 			</ul>
 		</div>
 
@@ -102,7 +102,7 @@
 		<div class="columns large-3 medium-3 small-6">
 			<ul>
 				<h3>Marketing &amp; Branding</h3>
-				<li><span class="name">Trushitha Narla</span><br><span class="role">Head of Design and Graphics</span></li>
+				<li><span class="name">Camille Emig</span><br><span class="role">Head of Design and Graphics</span></li>
 				<li><span class="name">Anna Mitchell</span><br><span class="role">Head of Branding</span></li>
 				<li><span class="name">Sandra Soueid</span><br><span class="role">Outreach</span></li>
 				<li><span class="name">Roya Edalatpour</span><br><span class="role">Outreach/Branding</span></li>
