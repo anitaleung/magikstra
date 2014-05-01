@@ -31,13 +31,5 @@
 	<?php include 'team.php'; ?>
 </section>
 
-<section id="share" class="share">
-	<?php include 'share.php'; ?>
-</section>
-
-<section id="notify" class="notify">
-	<?php include 'notify.php'; ?>
-</section>
-
 <?php include 'footer.php'; ?>
 
